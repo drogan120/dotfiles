@@ -7,3 +7,6 @@
 [submodule "dwm"]
 	path = dwm
 	url = https://git.suckless.org/dwm
+[submodule "dwmstatus"]
+	path = dwmstatus
+	url = git://git.suckless.org/dwmstatus
